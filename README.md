@@ -1,7 +1,3 @@
-# Abdelkhalek
-Hey! I'm Pixel, a 20 y/o electronics engineering student 👨‍🔬 who codes like a front-end ninja 🥷 by night. I mix hardware (Arduino) with sleek web tech (React, JavaScript) and love solving real-world problems while sipping coffee ☕ and grinding code ⚡.
-
-
 
 <h1 align="center">Hi 👋, I'm Pixel Abdelkhalek Mammeri</h1>
 <h3 align="center">💻 3rd Year Electronics Engineering Student | 🎯 Front-End Developer | 👨‍💻 20 y/o</h3>
