@@ -8,14 +8,9 @@ Hey! I'm Pixel, a 20 y/o electronics engineering student 👨‍🔬 who codes l
 
 ---
 
-🌟 **About Me**
-
-- 🔭 I’m currently working on my front-end skills and automation projects
-- 🌱 I’m learning **JavaScript**, **React**, **n8n**, and **Git**
-- 🤖 I also have experience working with **Arduino** for electronics projects
-- ⚡ Fun fact: I love tech, coding at night, gaming, and reading manhwa 🧠🎮📚
-- 🎓 Studying Electronics Engineering (3rd Year)
-- 🧩 I'm always up for solving problems & creating things from scratch
+<p align="center">
+I'm a 20-year-old electronics engineering student with a passion for front-end development, automation, and building real-world projects using JavaScript, React, Arduino, and n8n. I love turning ideas into code and constantly learning new technologies to improve my skills.
+</p>
 
 ---
 
@@ -27,18 +22,9 @@ Hey! I'm Pixel, a 20 y/o electronics engineering student 👨‍🔬 who codes l
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pikuserurex&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikuserurex&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
